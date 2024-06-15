@@ -45,9 +45,10 @@ if newUser.lower() == "no":
         print(UserName)
         print("\n")
         print("COMMAND MENU")
-        print("LIST- List all projects")
-        print("ADD - Add a project")
-        print("DELETE - Delete a project")
+        print("VIEW- VIEW YOUR PROFILE")
+        print("CHANGE - CHANGE INFO IN YOUR PROFILE")
+        print("ADD - ADD TO YOUR PROFILE")
+        print("DELETE - DELETE FROM PROFILE")
         print("EXIT - Exit program")
         print("\n")
         
