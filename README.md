@@ -1,6 +1,6 @@
 Developer accounts <br>
 <hr>
-The Developer account is a Python profile manager  that allows developers to create and manage their professional profiles. Users can create an account, add skills, projects, and experience to their profiles, and manage their profile data with ease.
+The Developer account application is a Python profile manager  that allows developers to create and manage their professional profiles. Users can create an account, add skills, projects, and experience to their profiles, and manage their profile data with ease.
 <br>
 <br>
 <br>
